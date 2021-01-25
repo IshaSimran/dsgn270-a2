@@ -2,6 +2,7 @@
 
 Isha Simran is the owner of this repository.
 
+
 ## Attributions
 
 [Wikipedia Visual Arts](https://en.wikipedia.org/wiki/Visual_arts)
@@ -36,3 +37,6 @@ Isha Simran is the owner of this repository.
 
 [Logo Used](https://iconmonstr.com/paintbrush-8-svg/)
 
+### SIDE NOTE
+
+I have not been able to properly get my svg logo to load in a markdown file. I've looked for different way's to implement it, so I hope the provided link will help, to at least show you the logo. 
