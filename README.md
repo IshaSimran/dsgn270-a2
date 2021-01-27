@@ -43,7 +43,7 @@ Isha Simran is the owner of this repository.
 
 ### Logo
 
-- [All logos provided by Iconmonstr](https://iconmonstr.com/)
+- All logos provided by [Iconmonstr](https://iconmonstr.com/)
 
 - [Iconmonstr license](https://iconmonstr.com/license/)
 
