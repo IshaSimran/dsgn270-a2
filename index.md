@@ -128,4 +128,3 @@ Painting is also used to express spiritual motifs and ideas; sites of this kind 
 [Picture Taking Photo](https://pixabay.com/photos/photography-taking-picture-display-801891/)
 
 [Logo Used](https://iconmonstr.com/paintbrush-8-svg/)
-
